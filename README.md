@@ -1,4 +1,5 @@
 # This is a simple tic-tac-toe game made by using reactjs.
+# deployed by netlify (https://shoutingsharma-tic-tac-toe-game.netlify.app/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
